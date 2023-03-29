@@ -1,0 +1,9 @@
+Explanation:
+
+The first error occurs on the first line, it should be "email" instead of "emai".
+
+In the second line, we need to split the "domain" variable instead of the "domin" variable.
+
+In the return state, we need to start the reduce function, the initial value is 0, because it is a summation operation.
+
+After applying these fixes, the function returns the correct answer.
